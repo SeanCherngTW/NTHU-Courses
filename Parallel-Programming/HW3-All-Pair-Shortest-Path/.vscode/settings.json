@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "iosfwd": "c",
+        "xstring": "c",
+        "xutility": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "system_error": "c",
+        "xlocmon": "c",
+        "xtr1common": "c",
+        "xlocale": "c",
+        "stdio.h": "c",
+        "ios": "c",
+        "type_traits": "c",
+        "initializer_list": "c",
+        "xiosbase": "c",
+        "fstream": "c",
+        "istream": "c",
+        "streambuf": "c"
+    }
+}
