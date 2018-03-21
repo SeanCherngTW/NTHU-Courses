@@ -1,0 +1,11 @@
+lab4.test.1.txt:
+hits = 91
+correction = 196
+accuracy = 0.464286
+false alarm = 0.535714
+
+lab4.test.2.txt:
+hits = 97
+correction = 196
+accuracy = 0.494898
+false alarm = 0.505102 
