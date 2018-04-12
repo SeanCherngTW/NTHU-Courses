@@ -1,0 +1,1 @@
+cat bnc.sents.txt | ./lmr 4m 8 'python mapper.py' 'python reducer.py' out
